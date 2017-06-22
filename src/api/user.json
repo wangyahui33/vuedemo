@@ -1,0 +1,10 @@
+{
+  "userName": "admin",
+  "password": "admin",
+  "systems": [
+    {
+      "name": "cons",
+      "alias": "首页"
+    }
+  ]
+}
